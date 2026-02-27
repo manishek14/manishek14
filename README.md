@@ -45,6 +45,12 @@ Currently open to remote and international backend engineering opportunities.
 
 ---
 
+## 🌐 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishekofteh@gmail.com)
+
+---
+
 ## 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=manishek14&limit=5&theme=dark&combine_all_yearly_contributions=true)
