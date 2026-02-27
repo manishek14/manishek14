@@ -67,12 +67,6 @@ Node.js + WebSocket + Redis
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=manishek14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🌐 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishekofteh@gmail.com)
