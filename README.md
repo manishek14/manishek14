@@ -13,6 +13,28 @@ Currently open to remote and international backend engineering opportunities.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Production-Ready REST API
+Node.js + Express + PostgreSQL + Redis + Docker  
+- JWT Authentication & Role-Based Access  
+- Scalable architecture structure  
+- Dockerized with docker-compose  
+- API documentation with Swagger  
+
+### 🔹 E-commerce Backend Architecture
+Node.js + MongoDB  
+- Product & Order management  
+- Payment integration ready structure  
+- Optimized database queries  
+
+### 🔹 Real-time Chat API
+Node.js + WebSocket + Redis  
+- Real-time messaging  
+- Scalable pub/sub architecture  
+
+---
+
 # 💻 Core Tech Stack
 
 ### Backend
@@ -45,21 +67,15 @@ Currently open to remote and international backend engineering opportunities.
 
 ---
 
-## 🌐 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishekofteh@gmail.com)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=manishek14&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=manishek14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🌐 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishekofteh@gmail.com)
 
 ---
 
