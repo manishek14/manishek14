@@ -55,15 +55,6 @@ Node.js + WebSocket + Redis
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=manishek14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishek14&theme=dark&hide_border=false&layout=compact)
-
-![](https://nirzak-streak-stats.vercel.app/?user=manishek14&theme=dark&hide_border=false)
 
 ---
 
