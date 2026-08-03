@@ -1,63 +1,93 @@
 # 💫 About Me
-Backend Engineer | Node.js Specialist
 
-Results-driven Backend Engineer focused on building scalable, high-performance, and production-grade systems using the Node.js ecosystem.
+Backend Engineer passionate about designing scalable, maintainable, and production-grade backend systems.
 
-I specialize in designing robust backend architectures, building secure RESTful APIs, optimizing database performance, and implementing scalable caching strategies.
+I specialize in building high-performance APIs, designing clean software architectures, modeling complex business domains, and developing reliable distributed backend services using the Node.js ecosystem.
 
-🔹 Strong in system design fundamentals  
-🔹 Performance optimization & clean architecture  
-🔹 Writing maintainable, testable production-ready code  
+My primary focus is not only writing code—but designing systems that remain maintainable, scalable, and easy to evolve as products grow.
+
+### 🔹 What I Focus On
+
+- 🏗️ Backend Architecture & System Design
+- ⚡ High-Performance REST APIs
+- 🗄️ Database Modeling & Query Optimization
+- 🔄 Event-Driven Architecture & Background Processing
+- 🔐 Authentication, Authorization & RBAC
+- 📦 Scalable Caching Strategies with Redis
+- 🐳 Dockerized Development & Deployment
+- 🧪 Writing Clean, Maintainable & Testable Code
+
+I'm constantly exploring better engineering practices, software architecture patterns, and scalable backend solutions.
 
 Currently open to remote and international backend engineering opportunities.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Production-Ready REST API
-Node.js + Express + PostgreSQL + Redis + Docker  
-- JWT Authentication & Role-Based Access  
-- Scalable architecture structure  
-- Dockerized with docker-compose  
-- API documentation with Swagger  
+## 🔹 AxisHR — Human Resource Management Platform
 
-### 🔹 E-commerce Backend Architecture
-Node.js + MongoDB  
-- Product & Order management  
-- Payment integration ready structure  
-- Optimized database queries  
+**NestJS • PostgreSQL • Redis • Docker**
 
-### 🔹 Real-time Chat API
-Node.js + WebSocket + Redis  
-- Real-time messaging  
-- Scalable pub/sub architecture  
+Enterprise-ready HR platform built with a modular architecture.
+
+**Highlights**
+
+- Multi-tenant architecture
+- RBAC (Role-Based Access Control)
+- Employee & Organization Management
+- Authentication & Session Management
+- Modular and scalable backend design
+- PostgreSQL + Redis integration
 
 ---
 
-# 💻 Core Tech Stack
+## 🔹 Loan Processing Platform
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+**NestJS • TypeORM • PostgreSQL • Redis**
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+Backend platform designed to process loan applications for multiple banks through configurable workflows.
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Highlights**
 
+- Workflow-based request processing
+- Queue-driven background jobs
+- Event-Driven Architecture
+- Priority Processing
+- Financial validation pipeline
+- Modular Monolith Architecture
 
 ---
 
-## 🌐 Contact Me
+## 🔹 Ridex Backend
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishekofteh@gmail.com)
+**Node.js • Express • MongoDB**
+
+Backend architecture for a ride-booking platform focused on performance and scalability.
+
+**Highlights**
+
+- Authentication & Authorization
+- Ride & User Management
+- Optimized MongoDB Queries
+- RESTful API Design
+- Clean project structure
+
+---
+
+## 🔹 Backend Engineering Playground
+
+A collection of production-oriented backend experiments and reusable implementations.
+
+Including:
+
+- Authentication Systems
+- Redis Caching
+- BullMQ Queues
+- Docker Environments
+- Clean Architecture
+- Design Patterns
+- Database Modeling
+- API Best Practices
+
+---
